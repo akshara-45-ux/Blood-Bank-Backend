@@ -1,4 +1,31 @@
 {
+    "admins":[
+        {
+      "id": 101,
+      "username": "Akshara",
+      "password": "adminpass"
+      
+    },
+    {
+      "id": 102,
+      "username": "Sree_nandan",
+      "password": "adminpass"
+      
+    },
+    {
+      "id": 103,
+      "username": "Abdul_rahman",
+      "password": "adminpass"
+      
+    },
+    {
+      "id": 104,
+      "username": "Aldrin",
+      "password": "adminpass"
+      
+    }
+
+    ],
   "users": [
     {
       "username": "Abdul",
