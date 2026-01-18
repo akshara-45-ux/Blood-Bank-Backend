@@ -1,5 +1,5 @@
 {
-<<<<<<< Updated upstream
+
   "users": [
     {
       "username": "Abdul",
@@ -16,8 +16,7 @@
       "id": 2
     }
   ],
-  "blood-data": []
-=======
+
   "blood-data": [
     {
       "name": "amiya",
@@ -29,5 +28,5 @@
       "status": "Accepted"
     }
   ]
->>>>>>> Stashed changes
+
 }
