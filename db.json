@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "users": [
     {
       "username": "Abdul",
@@ -16,4 +17,17 @@
     }
   ],
   "blood-data": []
+=======
+  "blood-data": [
+    {
+      "name": "amiya",
+      "age": "27",
+      "bloodGroup": "B+",
+      "location": "KALOOR",
+      "date": "2026-01-29",
+      "id": 1,
+      "status": "Accepted"
+    }
+  ]
+>>>>>>> Stashed changes
 }
