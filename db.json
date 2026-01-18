@@ -1,32 +1,30 @@
 {
-  "admins": [
-    {
-      "id": 1,
-      "username": "aldrin",
-      "password": "admin123"
-    },
-    {
-      "id": 2,
-      "username": "akshara",
-      "password": "admin123"
-    },
-    {
-      "id": 3,
-      "username": "abdu",
-      "password": "admin123"
-    },
-    {
-      "id": 4,
-      "username": "sree",
-      "password": "admin123"
-    }
-  ],
   "users": [
     {
-      "id": "a1f1",
-      "username": "hari",
-      "email": "hari@gmail.com",
-      "password": "hari1234"
+      "username": "Abdul",
+      "email": "abd@gmail.com",
+      "password": "55555555",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "Rayyappan",
+      "email": "Rayya@gmail.com",
+      "password": "94425",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "manju",
+      "email": "manju@gmail.com",
+      "password": "manju123",
+      "id": 3
+    },
+    {
+      "username": "remya",
+      "email": "remya@gmail.com",
+      "password": "remya123",
+      "id": 4
     }
   ],
   "blood-data": [
@@ -38,13 +36,43 @@
       "date": "2026-01-29",
       "id": 1,
       "status": "Accepted"
+    },
+    {
+      "name": "abdu",
+      "age": "23",
+      "bloodGroup": "O+",
+      "location": "THRIPUNITHARA",
+      "date": "2026-01-26",
+      "id": 2
+    },
+    {
+      "name": "manju",
+      "age": "18",
+      "bloodGroup": "AB-",
+      "location": "Edapally",
+      "date": "2026-01-24",
+      "id": 3
+    },
+    {
+      "name": "remya",
+      "age": "20",
+      "bloodGroup": "O+",
+      "location": "vytila",
+      "date": "2026-01-21",
+      "userId": 4,
+      "id": 4
     }
   ],
   "added-blood": [
     {
-      "id": "abd0",
       "group": "A+",
-      "units": 9
+      "units": 34,
+      "id": 1
+    },
+    {
+      "group": "B+VE",
+      "units": 23,
+      "id": 2
     }
   ]
 }
