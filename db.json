@@ -1,3 +1,19 @@
 {
-    "blood-data":[]
+  "users": [
+    {
+      "username": "Abdul",
+      "email": "abd@gmail.com",
+      "password": "55555555",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "Rayyappan",
+      "email": "Rayya@gmail.com",
+      "password": "94425",
+      "role": "user",
+      "id": 2
+    }
+  ],
+  "blood-data": []
 }
